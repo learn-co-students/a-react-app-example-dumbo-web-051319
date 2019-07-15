@@ -9,7 +9,7 @@ class ExampleComponent extends Component {
         <p>Whoa!</p>
       </div>
     );
-  }
+  } 
 }
 
 export default ExampleComponent;
